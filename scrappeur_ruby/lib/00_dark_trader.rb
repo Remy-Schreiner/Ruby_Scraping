@@ -36,4 +36,4 @@ end
 end
 
 
-get_price_crypto(base_url)
+puts get_price_crypto(base_url)
